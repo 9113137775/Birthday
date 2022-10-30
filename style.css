@@ -1,0 +1,16 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+    
+}
+#myCanvas
+{
+  border-width: 10px;
+  background-color: white;
+  border-style: ridge;
+  border-color: darkviolet; 
+  background-image: url(https://png.pngtree.com/png-vector/20190621/ourlarge/pngtree-1st-year-happy-birthday-with-cake-and-balloons-free-png-png-image_16326.jpg)
+}
+
